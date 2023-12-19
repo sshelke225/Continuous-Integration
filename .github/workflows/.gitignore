@@ -88,3 +88,8 @@ target/
 .mypy_cache/
 /models
 /dvclive
+
+
+# Charts
+bar.png
+lines.png
